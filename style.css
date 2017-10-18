@@ -1,0 +1,17 @@
+#mainNav {
+  font-family: monospace;
+  background: #2C3E50;
+}
+
+header.masthead {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: white;
+  background: green;
+}
+
+.portfolio-item{
+  margin-bottom: 15px;
+  max-width: 400px;
+}
